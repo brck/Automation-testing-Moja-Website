@@ -17,7 +17,7 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('https://www.mojawifi.com/trending')
 
-WebUI.click(findTestObject('Points/Page_Moja Free WiFi/img'))
+WebUI.click(findTestObject('Videos/Page_Moja Free WiFi/div_Watch and earn 5 points'))
 
 WebUI.click(findTestObject('Page_Moja Free WiFi/button_Play'))
 

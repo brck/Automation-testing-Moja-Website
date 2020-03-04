@@ -89,3 +89,31 @@ WebUI.click(findTestObject('Page_Moja Free WiFi/a_Trending'))
 
 WebUI.delay(10)
 
+WebUI.click(findTestObject('Language/Page_Moja Free WiFi/moja'))
+
+WebUI.click(findTestObject('Language/Page_Moja Free WiFi/a_My Profile'))
+
+WebUI.click(findTestObject('Language/Page_Moja Free WiFi/li_Change Language'))
+
+WebUI.click(findTestObject('Language/Page_Moja Free WiFi/span_French'))
+
+WebUI.click(findTestObject('Language/Page_Moja Free WiFi/button_Save Changes'))
+
+WebUI.click(findTestObject('Page_Moja Free WiFi/a_Trending'))
+
+WebUI.delay(10)
+
+WebUI.click(findTestObject('Language/Page_Moja Free WiFi/moja'))
+
+WebUI.click(findTestObject('Language/Page_Moja Free WiFi/a_My Profile'))
+
+WebUI.click(findTestObject('Language/Page_Moja Free WiFi/li_Change Language'))
+
+WebUI.click(findTestObject('Language/Page_Moja Free WiFi/span_Sheng'))
+
+WebUI.click(findTestObject('Language/Page_Moja Free WiFi/button_Save Changes'))
+
+WebUI.click(findTestObject('Page_Moja Free WiFi/a_Trending'))
+
+WebUI.delay(10)
+
